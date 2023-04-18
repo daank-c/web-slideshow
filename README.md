@@ -1,6 +1,19 @@
 # Web Slideshow
 The slideshow web page is a simple HTML page that displays a slideshow of images. The web page is designed to be easy to use and customize, and can be used to showcase a collection of photos or images.
 
+### Directory Layout
+
+     web-slideshow
+        |-- README.md
+        |-- LICENSE
+        |-- webpage
+            |-- index.html
+            |-- images/
+                 |-- slide1.jpg
+                 |-- slide2.jpg
+                 |-- slide3.jpg
+
+
 ### Getting Started
 To use the slideshow web page, simply download the index.html file and the images folder containing the images you want to display in the slideshow. You can customize the web page by editing the index.html file and adding your own images to the images folder.
 
