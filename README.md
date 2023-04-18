@@ -1,7 +1,7 @@
 # Web Slideshow
 The slideshow web page is a simple HTML page that displays a slideshow of images. The web page is designed to be easy to use and customize, and can be used to showcase a collection of photos or images.
 
-[Preview](https://daanksy.xyz/samples/web-slideshow)
+[Preview](https://www.daanksy.xyz/samples/web-slideshow)
 
 ### Directory Layout
 
